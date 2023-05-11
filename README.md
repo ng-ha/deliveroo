@@ -10,7 +10,7 @@
 - `react-native-maps` with Google Map API
 - Content Management System with `sanity`
 
-### Screenshots 🌃
+### Screenshots & video 🌃
 
 <div style="display: flex; flex-wrap: wrap">
 <img width="49%" src="./github-images/1.png" alt="ng-ha" />
@@ -21,7 +21,7 @@
 <img width="49%" src="./github-images/6.png" alt="ng-ha" />
 </div>
 
-https://github.com/ng-ha/deliveroo/assets/115610452/608bd91b-d458-4172-82f8-a7ab9e9a5854
+<video src="https://github.com/ng-ha/deliveroo/assets/115610452/608bd91b-d458-4172-82f8-a7ab9e9a5854" width="100%" />
 
 ### License :right_anger_bubble:
 
