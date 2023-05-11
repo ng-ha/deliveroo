@@ -2,7 +2,7 @@
 
 ### Technologies ✨
 
-- `React-Navtive`
+- `React-Native`
 - `Expo`
 - TailwindCss with `nativewind`
 - `@react-navigation`
