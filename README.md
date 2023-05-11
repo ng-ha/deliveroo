@@ -21,7 +21,7 @@
 <img width="49%" src="./github-images/6.png" alt="ng-ha" />
 </div>
 
-<video src="https://github.com/ng-ha/deliveroo/assets/115610452/608bd91b-d458-4172-82f8-a7ab9e9a5854" width="100%" />
+https://github.com/ng-ha/deliveroo/assets/115610452/608bd91b-d458-4172-82f8-a7ab9e9a5854
 
 ### License :right_anger_bubble:
 
