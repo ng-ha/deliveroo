@@ -1,4 +1,4 @@
-# Deliveroo clone with React-Native + Expo :motor_scooter:
+# Deliveroo clone with `React-Native` + `Expo` :motor_scooter:
 
 ### Technologies ✨
 
